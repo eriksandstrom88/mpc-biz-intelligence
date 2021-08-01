@@ -4,7 +4,9 @@ Project in progress.  Started on 8/1/2021, expected to be finished by 8/31/2021.
 
 This project is a business intelligence endeavor to help a painting contractor identify strengths and weaknesses in their business model.  Specifically, I would like to find out which neighborhoods, job types, paint crews, times of year, estimating employees and project managers lead to the greatest profits and greatest "win" rate of estimates.  Is the company pricing paint jobs too high or too low in certain neighborhoods at certain times of year? Should the company focus advertising and marketing on a certain job type proven to be more profitable in certain neighborhoods?  Should only certain crews be used on certain job types?
 
-Once the data is cleaned and organized, I will do some exploratory analysis in Jupyter Notebook.  Next, I will use Leaflet to Geomap all the company's estimates and completed jobs, with filters/color coding/markers for job type, time of year, crew used, won/lost, and a heatmap of profitability by time of year.
+Once the data is cleaned and organized, I will do some exploratory analysis in Jupyter Notebook.  Next, I will use Leaflet to Geomap all the company's estimates and completed jobs, with filters/color coding/markers for job type, time of year, crew used, won/lost, and a heatmap of profitability by time of year.  The image below IS NOT FROM THIS PROJECT, but rather is from the company's invoicing/estimating/project management software.  The map I will create will look similar to this, with MUCH more functionality built-in.  The image below is from a homework assignment from the University of Denver's Data Analytics Bootcamp.
+
+![temp map](https://user-images.githubusercontent.com/75816400/127788742-933d14c6-fcc5-47e0-a9f2-ff08400a09ae.JPG)
 
 In later phases of the project, I will use constrained optimization techniques to identify the profit-maximizing balance of job types, neighborhoods, and crews used.
 
