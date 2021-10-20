@@ -1,6 +1,6 @@
 # mpc-biz-intelligence
 
-Project in progress.  Started on 8/1/2021, expected to be finished by 8/31/2021.
+Project in progress.  Started on 10/5/2021, expected to be finished by 10/31/2021.
 
 This project is a business intelligence endeavor to help a painting contractor identify strengths and weaknesses in their business model.  Specifically, I would like to find out which neighborhoods, job types, paint crews, times of year, estimating employees and project managers lead to the greatest profits and greatest "win" rate of estimates.  Is the company pricing paint jobs too high or too low in certain neighborhoods at certain times of year? Should the company focus advertising and marketing on a certain job type proven to be more profitable in certain neighborhoods?  Should only certain crews be used on certain job types?
 
