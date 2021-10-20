@@ -1,8 +1,6 @@
 # mpc-biz-intelligence
 
-I am incredibly grateful to the owners of MPC for the opportunity they provided to me during the COVID-19 pandemic.  Having worked for the company in various capacities since high school (I'm now 33 and 12 years out of undergrad!), I wanted to see if I could identify any hidden trends, strengths or weaknesses in their estimating model.
-
-FULL DISCLOSURE: The owner of the company is my brother-in-law, hence why I have worked for the company here and there at various times.
+I am incredibly grateful to the owners of MPC for the opportunity they provided to me during the COVID-19 pandemic.  I was pursuing some entrepreneurial ideas in late 2019 and early 2020 before the pandemic.  When the pandemic started, the company was overwhelmed, and I jumped at the temporary opportunity to maintain cashflow given the economic uncertainty and to help the company grow.  Having worked for the company in various capacities since high school (I'm now 33 and 12 years out of undergrad!), I wanted to see if I could identify any hidden trends, strengths or weaknesses in their estimating model.  FULL DISCLOSURE: The co-owner of the company is my brother-in-law, hence why I have worked for the company here and there at various times.
 
 Having worked for MPC in a sales and project management role from March 2020 to September 2021, I was curious to see if there are any trends when it comes to bids that the company wins and loses by time of year, neighborhood, project value, employee doing the bid, and other variables.  
 
