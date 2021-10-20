@@ -21,10 +21,10 @@ KEY FINDINGS
 
 ![image](https://user-images.githubusercontent.com/75816400/138143685-1e661668-11bb-4a27-8bb5-36ed0da533be.png)
 
-MOVING FORWARD
-
-After this preliminary analysis, I want to use Machine Learning Techniques to try and identify the most profitable customer by zip code, time of year, and job type.  Should the company target advertising in certain neighborhoods for cabinets/exteriors/interiors at certain times of year?
-
 Not available on this page is the use of constrained optimization techniques based on demand functions I created according to the data and company work capacity by job type.
 
 The results were intuitive: the company should focus on cabinet jobs in the southwest and southeast regions of the Denver Metro Area during the winter, and focus on residential exteriors in Stapleton, Aurora, and Highlands Ranch in the summer.  Surprisingly, interior jobs are generally not highly profitable, so they should be targeted only when business in other categories is slow.
+
+MOVING FORWARD
+
+After this preliminary analysis, I want to use Machine Learning Techniques to try and identify the most profitable customer by zip code, time of year, and job type.  Should the company target advertising in certain neighborhoods for cabinets/exteriors/interiors at certain times of year?
